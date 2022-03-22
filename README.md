@@ -25,7 +25,7 @@ Applikacija je podijeljena u nekoliko modula
 * Baza: SQL Server
     
 
-### Struktura modula za registraciju pacijenta
+#### Struktura modula za registraciju pacijenta
 
 * Home
     * Za Doktora 
