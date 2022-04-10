@@ -2,7 +2,7 @@
 
 ## LV1
 
-### Opis Web Applikacije - Primjer 
+### Opis Web Applikacije - Primjer npx create-react-app my-app
 
 #### Medicinski Upitnik 
 
